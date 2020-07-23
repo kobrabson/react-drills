@@ -38,3 +38,5 @@ class NewTask extends Component {
     }
 
 }
+
+export default NewTask
